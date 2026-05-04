@@ -1,0 +1,11 @@
+[
+  {
+    "user_id": "user_001",
+    "preferred_days": ["mon", "tue", "wed", "thu", "fri"],
+    "earliest_time": "09:00",
+    "latest_time": "17:00",
+    "max_distance_km": 20.0,
+    "min_rating": 4.5,
+    "weights": { "distance": 0.35, "rating": 0.4, "availability": 0.25 }
+  }
+]

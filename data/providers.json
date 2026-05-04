@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dentist_001",
+    "name": "Bright Smile Dental",
+    "phone": "+4915736786726",
+    "address": "120 W 45th St, New York, NY",
+    "location": { "lat": 40.7560, "lng": -73.9820 },
+    "rating": 4.7,
+    "services": ["dentist", "cleaning", "whitening"],
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "dentist_002",
+    "name": "Midtown Family Dentistry",
+    "phone": "+4915736786726",
+    "address": "315 Madison Ave, New York, NY",
+    "location": { "lat": 40.7496, "lng": -73.9810 },
+    "rating": 4.4,
+    "services": ["dentist", "orthodontics", "emergency"],
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "dentist_003",
+    "name": "Parkside Dental Care",
+    "phone": "+4915736786726",
+    "address": "50 E 78th St, New York, NY",
+    "location": { "lat": 40.7766, "lng": -73.9632 },
+    "rating": 4.9,
+    "services": ["dentist", "pediatric", "implant"],
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "darmstadt_dentist_001",
+    "name": "Darmstadt Dental",
+    "phone": "+4915736786726",
+    "address": "Luisenplatz 1, Darmstadt",
+    "location": { "lat": 49.8728, "lng": 8.6512 },
+    "rating": 4.6,
+    "services": ["dentist", "cleaning", "checkup"],
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "id": "darmstadt_carwash_001",
+    "name": "Super Shine Wash",
+    "phone": "+4915736786726",
+    "address": "Rheinstraße 10, Darmstadt",
+    "location": { "lat": 49.8720, "lng": 8.6337 },
+    "rating": 4.3,
+    "services": ["car wash", "detailing", "interior clean"],
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "id": "darmstadt_plumber_001",
+    "name": "Pipes & Co.",
+    "phone": "+4915736786726",
+    "address": "Kasinostraße 5, Darmstadt",
+    "location": { "lat": 49.8711, "lng": 8.6534 },
+    "rating": 4.5,
+    "services": ["plumber", "emergency", "repair"],
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "id": "darmstadt_physio_001",
+    "name": "City Physio Center",
+    "phone": "+4915736786726",
+    "address": "Heinheimer Straße 8, Darmstadt",
+    "location": { "lat": 49.8792, "lng": 8.6558 },
+    "rating": 4.7,
+    "services": ["physiotherapy", "sports massage", "rehab"],
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "id": "darmstadt_auto_001",
+    "name": "Rhein Auto Repair",
+    "phone": "+4915736786726",
+    "address": "Hügelstraße 20, Darmstadt",
+    "location": { "lat": 49.8749, "lng": 8.6454 },
+    "rating": 4.4,
+    "services": ["auto repair", "inspection", "oil change"],
+    "timezone": "Europe/Berlin"
+  }
+]
